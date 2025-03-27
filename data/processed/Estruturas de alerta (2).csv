@@ -1,0 +1,159 @@
+Estrutura de Alerta,Sigla,SMILES,Referências
+Ácidos hidroxâmicos,EA001,C(=O)NO,OECD QSAR Toolbox
+Aldeídos simples,EA002,C=O,"ICH M7, OECD QSAR Toolbox"
+Aldiminas,EA003,C=NC,"OECD QSAR Toolbox, IARC"
+Alumínio,EA_INORG_Al,[Al],Analise de Inorganicos
+Amidas aromáticas,EA004,c1ccccc1NC(=O)C,"ICH M7, OECD QSAR Toolbox"
+Amidinas,EA005,C(=N)N,"OECD QSAR Toolbox, IARC"
+Aminas acíclicas altamente reativas,EA006,NC(C)C,OECD QSAR Toolbox
+Aminas aromáticas primárias,EA007,c1ccccc1N,"ICH M7, OECD QSAR Toolbox"
+Aminas aromáticas secundárias/terciárias,EA008,c1ccccc1N(C)C,"ICH M7, OECD QSAR Toolbox"
+Análogos de flavonas e isoflavonas,EA009,O=C1C=Cc2ccccc2O1,"OECD QSAR Toolbox, IARC"
+Anidridos aromáticos,EA010,O=C1OC(=O)c2ccccc2C1,"IARC, OECD QSAR Toolbox"
+Antimônio,EA_INORG_Sb,[Sb],Analise de Inorganicos
+Antranilatos,EA011,C1=CC=C(C=C1)C(=O)OC,OECD QSAR Toolbox
+Arilaminas policíclicas,EA012,c1ccc2cc(ccc2c1)N,"IARC, OECD QSAR Toolbox"
+Arilfosfatos e ariltiofosfatos,EA013,O=P(OC1=CC=CC=C1)O,"IARC, OECD QSAR Toolbox"
+Arsênio,EA_INORG_As,[As],Analise de Inorganicos
+Azidas orgânicas,EA014,CN=[N+]=[N-],"ICH M7, OECD QSAR Toolbox"
+Aziridinas,EA015,C1CN1,"ICH M7, OECD QSAR Toolbox"
+Bário,EA_INORG_Ba,[Ba],Analise de Inorganicos
+Benzodioxinas e dibenzodioxinas,EA016,O1c2ccccc2Oc3ccccc3O1,"OECD QSAR Toolbox, IARC"
+Berílio,EA_INORG_Be,[Be],Analise de Inorganicos
+Boro,EA_INORG_B,[B],Analise de Inorganicos
+Boro-compostos reativos,EA017,B(O)O,"OECD QSAR Toolbox, ICH M7"
+Cádmio,EA_INORG_Cd,[Cd],Analise de Inorganicos
+Cálcio,EA_INORG_Ca,[Ca],Analise de Inorganicos
+Carbamatos aromáticos,EA018,C(=O)NOC1=CC=CC=C1,"OECD QSAR Toolbox, Benigni & Bossa (2008)"
+Carbamatos cíclicos e heterocíclicos,EA019,C1COC(=O)N1,"OECD QSAR Toolbox, Benigni & Bossa (2008)"
+Carbamatos e tiocarbamatos de alquila,EA020,NC(=O)OCC,"ICH M7, OECD QSAR Toolbox"
+Carbodiimidas e diimidas alifáticas,EA021,C=NC=N,OECD QSAR Toolbox
+"Carbonilas α,β-insaturadas",EA022,C=CC=O,"ICH M7, OECD QSAR Toolbox"
+Catecóis e derivados oxidáveis,EA023,C1=CC=C(C=C1)O,"ICH M7, Benigni & Bossa (2008)"
+Césio,EA_INORG_Cs,[Cs],Analise de Inorganicos
+Chumbo,EA_INORG_Pb,[Pb],Analise de Inorganicos
+Cianatos e tiocianatos,EA024,OCN,"ICH M7, IARC"
+Ciclopropanos eletrófilos,EA025,C1CC1=O,"IARC, OECD QSAR Toolbox"
+Cloraminas e bromaminas,EA026,ClN,"OECD QSAR Toolbox, ICH M7"
+Cloro- e bromonitrofenóis,EA027,C1=CC(=CC=C1[N+](=O)[O-])Cl,OECD QSAR Toolbox
+Cloroepóxidos e brometo de epóxido,EA028,C1COC1Cl,"OECD QSAR Toolbox, IARC"
+Cloroetileno,EA029,ClC=C,"IARC, OECD QSAR Toolbox"
+Clorofenóis,EA030,C1=CC=C(C=C1)OCl,"IARC, OECD QSAR Toolbox"
+Cloropiridinas e derivados halogenados,EA031,C1=CC=NC=C1Cl,OECD QSAR Toolbox
+Cobalto,EA_INORG_Co,[Co],Analise de Inorganicos
+Cobre,EA_INORG_Cu,[Cu],Analise de Inorganicos
+Compostos azo aromáticos,EA032,c1ccccc1N=Nc2ccccc2,"ICH M7, OECD QSAR Toolbox"
+Cromo,EA_INORG_Cr,[Cr],Analise de Inorganicos
+Cumarinas e benzocumarinas,EA033,O=C1OCc2ccccc2C1,"OECD QSAR Toolbox, IARC"
+Cumarinas e furocumarinas,EA034,O=Cc1coc2c1cccc2,"ICH M7, OECD QSAR Toolbox"
+Derivados de antraquinona,EA035,O=C1C=C(C2=CC=CC=C2C1=O),"IARC, OECD QSAR Toolbox"
+Derivados de fenantreno e hidrocarbonetos policíclicos oxidáveis,EA036,C1=CC2=C(C=C1)C3=CC=CC=C3C2,OECD QSAR Toolbox
+Derivados N-metilol,EA037,c1ccccc1NCO,"ICH M7, OECD QSAR Toolbox"
+Diarilaminas substituídas,EA038,c1ccc(cc1)Nc2ccccc2,OECD QSAR Toolbox
+Diazirinas,EA039,C1N=N1,OECD QSAR Toolbox
+Diazocompostos,EA040,CN=N,"IARC, OECD QSAR Toolbox"
+Dibenzopirrolonas e pirroloninas oxidadas,EA041,C1=CC2=C(C=C1)C(=O)N2,"OECD QSAR Toolbox, IARC"
+Dibenzotiofenos e tiofenonas,EA042,C1=CC2=C(C=C1)SC3=CC=CC=C23,OECD QSAR Toolbox
+Dinitropiridinas,EA043,C1=C(C=NC(=N1)[N+](=O)[O-])[N+](=O)[O-],OECD QSAR Toolbox
+Dioxanos e dioxolanos,EA044,C1COCO1,"IARC, OECD QSAR Toolbox"
+Ditiocarbamatos e seus derivados,EA045,CS(NC)=S,"IARC, OECD QSAR Toolbox"
+Epóxidos,EA046,C1CO1,"ICH M7, OECD QSAR Toolbox"
+Estanho,EA_INORG_Sn,[Sn],Analise de Inorganicos
+Ésteres alquila (C<5) ou benzila de ácido sulfônico/fosfônico,EA047,CS(=O)(=O)OC,"ICH M7, OECD QSAR Toolbox"
+Ésteres de ácido carbâmico,EA048,O=C(NC)OCC,"ICH M7, IARC"
+Estrôncio,EA_INORG_Sr,[Sr],Analise de Inorganicos
+Éteres aromáticos reativos,EA049,COC1=CC=CC=C1,"OECD QSAR Toolbox, IARC"
+Ferro,EA_INORG_Fe,[Fe],Analise de Inorganicos
+Fluoroquinolonas e quinolonas substituídas,EA050,C1=CC2=C(C=CC=C2N1)C(=O)O,"OECD QSAR Toolbox, IARC"
+Fosfinas e derivados organofosforados altamente reativos,EA051,CP,"OECD QSAR Toolbox, IARC"
+Fosfonatos alquila,EA052,CP(=O)(O)O,OECD QSAR Toolbox
+Fosforamidatos e tiofosforamidatos,EA053,CP(=O)(NC)O,"IARC, OECD QSAR Toolbox"
+Ftalimidas,EA055,O=C1NC(=O)c2ccccc12,"OECD QSAR Toolbox, IARC"
+Furano-di-aldeídos e furanonas,EA056,O=C1OC=CC1=O,"ICH M7, OECD QSAR Toolbox"
+Furanoquinonas,EA057,O=C1C=Cc2c(O1)cccc2,"OECD QSAR Toolbox, Ashby & Tennant (1988)"
+Furoquinolinas e benzimidazois,EA058,C1=CC=C2C(=C1)NC=N2,"IARC, OECD QSAR Toolbox"
+Germânio,EA_INORG_Ge,[Ge],Analise de Inorganicos
+Grupos azo alifáticos,EA059,CN=NC,"ICH M7, OECD QSAR Toolbox"
+Grupos azóxi alifáticos,EA060,CN=[N+](C)[O-],database.ich.org
+Grupos nitroso aromáticos,EA061,c1ccccc1N=O,"ICH M7, OECD QSAR Toolbox"
+Haletos de acila,EA062,CC(=O)Cl,"ICH M7, OECD QSAR Toolbox"
+Haletos de alquila,EA063,CCCl,"ICH M7, OECD QSAR Toolbox"
+Heterociclos aromáticos contendo selênio ou telúrio,EA064,C1=CC=CS1,"OECD QSAR Toolbox, Benigni & Bossa (2008)"
+Hidrazidas aromáticas substituídas,EA065,C1=CC=C(C=C1)C(=O)NN,OECD QSAR Toolbox
+Hidrazidas e semicarbazonas,EA066,C(=O)NN,OECD QSAR Toolbox
+Hidrazinas,EA067,NN,"ICH M7, OECD QSAR Toolbox"
+Hidrazinas aromáticas,EA068,c1ccccc1NN,"OECD QSAR Toolbox, Ashby & Tennant (1988)"
+Hidrazinas heterocíclicas,EA069,C1CNNC1,"OECD QSAR Toolbox, ICH M7"
+Hidrazonas,EA070,C=NN(C)C,"ICH M7, Benigni & Bossa (2008)"
+Hidrocarbonetos aromáticos policíclicos,EA071,c1ccc2cc3ccccc3cc2c1,"ICH M7, OECD QSAR Toolbox"
+Hidrocarbonetos aromáticos policíclicos heterocíclicos,EA072,C1=CC=C2N=CC=CC2=C1,"ICH M7, OECD QSAR Toolbox"
+Hidroquinonas e polifenóis oxidados,EA073,C1=CC(=CC=C1O)O,"OECD QSAR Toolbox, ICH M7"
+Hidroxilaminas e seus derivados,EA074,CNO,Benigni & Bossa (2008)
+Imidas cíclicas,EA075,C1C(=O)NC(=O)C1,OECD QSAR Toolbox
+Índio,EA_INORG_In,[In],Analise de Inorganicos
+Indóis e derivados oxidáveis,EA076,C1=CC=C2C(=C1)NC=C2,"IARC, Benigni & Bossa (2008)"
+Irídio,EA_INORG_Ir,[Ir],Analise de Inorganicos
+Isocianatos e isotiocianatos,EA077,CN=C=O,"ICH M7, OECD QSAR Toolbox"
+Isocianetos aromáticos,EA078,c1ccccc1N=C=O,"IARC, Ashby & Tennant (1988)"
+Isocumarinas,EA079,O=C1C=CC2=C(O1)C=CC=C2,"OECD QSAR Toolbox, IARC"
+Isotiocianatos,EA080,N=C=S,"Ashby & Tennant (1988), ICH M7"
+Lítio,EA_INORG_Li,[Li],Analise de Inorganicos
+Magnésio,EA_INORG_Mg,[Mg],Analise de Inorganicos
+Manganês,EA_INORG_Mn,[Mn],Analise de Inorganicos
+Mercúrio,EA_INORG_Hg,[Hg],Analise de Inorganicos
+Molibdênio,EA_INORG_Mo,[Mo],Analise de Inorganicos
+Mostardas de enxofre ou nitrogênio,EA082,ClCCSCCCl,"ICH M7, OECD QSAR Toolbox"
+N-nitroso,EA084,CN(C)N=O,ema.europa.eu
+N-nitroso derivados heterocíclicos,EA085,N=O,"ICH M7, OECD QSAR Toolbox"
+N-óxidos aromáticos,EA088,c1cc[n+](c2c1cccc2)[O-],"ICH M7, OECD QSAR Toolbox"
+Níquel,EA_INORG_Ni,[Ni],Analise de Inorganicos
+Nitritos de alquila,EA089,CON=O,"ICH M7, OECD QSAR Toolbox"
+Nitroalcanos,EA090,CC[N+](=O)[O-],"ICH M7, OECD QSAR Toolbox"
+Nitroaromáticos,EA091,c1ccc(cc1)[N+](=O)[O-],"ICH M7, OECD QSAR Toolbox"
+O-nitrosos,EA092,ON=O,OECD QSAR Toolbox
+O-quinonas altamente eletrofílicas,EA093,O=C1C=CC=C1O,"IARC, OECD QSAR Toolbox"
+Ósmio,EA_INORG_Os,[Os],Analise de Inorganicos
+Oxamidas e oxalamidas substituídas,EA094,C(=O)NC(=O)N,"ICH M7, Benigni & Bossa (2008)"
+Oxazolonas,EA095,C1=CNC(=O)O1,ICH M7
+Óxidos de ferro orgânicos e derivados férricos,EA097,[Fe]=O,"OECD QSAR Toolbox, IARC"
+Oxiuranos e epóxidos contendo enxofre,EA098,C1COS1,"IARC, OECD QSAR Toolbox"
+Ozonídeos e peróxidos cíclicos,EA099,O1OO1,"OECD QSAR Toolbox, ICH M7"
+Perfluorocarbonos e perfluoroalquilatos,EA100,FC(F)(F)C(F)(F)C(F)(F)F,"OECD QSAR Toolbox, IARC"
+Peróxidos orgânicos,EA101,COOCC,"IARC, OECD QSAR Toolbox"
+Piperidinas e seus derivados oxidados,EA102,C1CCNCC1,"OECD QSAR Toolbox, IARC"
+Pirazinas e piridazinas substituídas,EA103,C1=CN=CN=C1,"OECD QSAR Toolbox, IARC"
+Pirimidinonas e purinas oxidáveis,EA105,C1=CNC(=O)NC1=O,"ICH M7, OECD QSAR Toolbox"
+Pirrolidinas substituídas,EA106,C1CCNC1,OECD QSAR Toolbox
+Platina,EA_INORG_Pt,[Pt],Analise de Inorganicos
+Plutônio,EA_INORG_Pu,[Pu],Analise de Inorganicos
+Potássio,EA_INORG_K,[K],Analise de Inorganicos
+Quinazolinas e quinoxalinas substituídas,EA107,C1=NC=NC2=CC=CC=C12,OECD QSAR Toolbox
+Quinonas,EA108,O=C1C=CC=CC1=O,"ICH M7, OECD QSAR Toolbox"
+Radicais livres estáveis,EA109,C1=CC=C(C=C1)[O],Benigni & Bossa (2008)
+Ródio,EA_INORG_Rh,[Rh],Analise de Inorganicos
+Rutênio,EA_INORG_Ru,[Ru],Analise de Inorganicos
+Sais de diazônio,EA110,[N+]#N,"IARC, OECD QSAR Toolbox"
+Sais de diazônio heterocíclicos,EA111,C1=CC=CN=N1,"OECD QSAR Toolbox, IARC"
+Sais de feniltiouréia e tiofenilamidas,EA112,c1ccc(cc1)NC(=S)N,"OECD QSAR Toolbox, IARC"
+Sais de fosfonio e derivados de fosforilação,EA113,[P+](C)(C)C,"OECD QSAR Toolbox, IARC"
+Selênio,EA_INORG_Se,[Se],Analise de Inorganicos
+Silício,EA_INORG_Si,[Si],Analise de Inorganicos
+Sódio,EA_INORG_Na,[Na],Analise de Inorganicos
+Sulfonamidas reativas,EA114,CS(=O)(=O)NC,"Benigni & Bossa (2008), ICH M7"
+Sulfonatos aromáticos reativos,EA115,C1=CC=C(C=C1)S(=O)(=O)O,OECD QSAR Toolbox
+Sulfonil-hidrazidas,EA116,CS(=O)(=O)NN,OECD QSAR Toolbox
+Sulfoniluréias,EA117,CS(=O)(=O)NC(=O)NC,"IARC, OECD QSAR Toolbox"
+Telúrio,EA_INORG_Te,[Te],Analise de Inorganicos
+Tetra-hidropiranonas e derivados lactônicos,EA118,O=C1CCCCO1,"OECD QSAR Toolbox, Benigni & Bossa (2008)"
+Tiazolidinas e tiazolidinonas,EA119,C1CNCS1,OECD QSAR Toolbox
+Tioantracenonas e tiocromonas,EA120,C1=CC2=C(C=C1)C(=S)C=C2,OECD QSAR Toolbox
+Tiofenóis e mercaptobenzenos altamente oxidáveis,EA121,C1=CC=C(C=C1)S,"IARC, OECD QSAR Toolbox"
+Tiofenonas e quinolinas oxidáveis,EA122,C1=CC=CC2=C1C=CS2,"OECD QSAR Toolbox, IARC"
+Tiosemicarbazonas,EA123,C=NNC(S)=S,"OECD QSAR Toolbox, IARC"
+Triazenos,EA124,CNN=NC,"ICH M7, OECD QSAR Toolbox"
+Triazóis substituídos,EA125,C1=NN=CN1,"Benigni & Bossa (2008), OECD QSAR Toolbox"
+Tungstênio,EA_INORG_W,[W],Analise de Inorganicos
+Vanádio,EA_INORG_V,[V],Analise de Inorganicos
+Zinco,EA_INORG_Zn,[Zn],Analise de Inorganicos
+Zircônio,EA_INORG_Zr,[Zr],Analise de Inorganicos
+β-Propiolactona e β-propiolsultona,EA126,O=C1CCO1,"ICH M7, OECD QSAR Toolbox"
