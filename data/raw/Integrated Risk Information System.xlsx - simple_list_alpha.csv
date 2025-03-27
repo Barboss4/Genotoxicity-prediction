@@ -1,0 +1,805 @@
+,Chemical Name,CASRN,Last Significant Revision*,Literature Screening Review,Critical Effect Systems,RfD (Chronic),RfD (Subchronic),RfC (Chronic),RfC (Subchronic),Tumor Site
+1,Acenaphthene,83-32-9,nov.-01-1990,No,Hepatic,6 x 10 -2 mg/kg-day,,,,None
+2,Acenaphthylene,208-96-8,jan.-01-1991,No,None,,,,,None
+3,Acephate,30560-19-1,mai.-01-1989,Yes,Nervous,4 x 10 -3 mg/kg-day,,,,Hepatic
+4,Acetaldehyde,75-07-0,out.-01-1991,No,"Nervous
+Respiratory",,,9 x 10 -3 mg/m3,,Respiratory
+5,Acetochlor,34256-82-1,set.-01-1993,Yes,"Hematologic
+Hepatic
+Nervous
+Reproductive
+Urinary",2 x 10 -2 mg/kg-day,,,,None
+6,Acetone,67-64-1,jul.-31-2003,No,Urinary,9 x 10 -1 mg/kg-day,,,,None
+7,Acetonitrile,75-05-8,mar.-03-1999,No,None,,,6 x 10 -2 mg/m3,,None
+8,Acetophenone,98-86-2,fev.-01-1991,Yes,None,1 x 10 -1 mg/kg-day,,,,None
+9,Acetyl chloride,75-36-5,mar.-01-1991,No,None,,,,,None
+10,"Acifluorfen, sodium",62476-59-9,mar.-31-1987,Yes,"Developmental
+Urinary",1.3 x 10 -2 mg/kg-day,,,,None
+11,Acrolein,107-02-8,jun.-03-2003,No,Respiratory,5 x 10 -4 mg/kg-day,,2 x 10 -5 mg/m3,,None
+12,Acrylamide,79-06-1,mar.-22-2010,No,Nervous,2 x 10 -3 mg/kg-day,,6 x 10 -3 mg/m3,,"Endocrine
+Reproductive"
+13,Acrylic acid,79-10-7,abr.-01-1994,Yes,"Developmental
+Nervous
+Respiratory",5 x 10 -1 mg/kg-day,,1 x 10 -3 mg/m3,,None
+14,Acrylonitrile,107-13-1,nov.-01-1991,Yes,Respiratory,,,2 x 10 -3 mg/m3,,"Gastrointestinal
+Nervous
+Respiratory"
+15,Adiponitrile,111-69-3,fev.-01-1991,Yes,None,,,,,None
+16,Alachlor,15972-60-8,set.-01-1993,No,Hematologic,1 x 10 -2 mg/kg-day,,,,None
+17,Alar,1596-84-5,jun.-30-1988,Yes,None,1.5 x 10 -1 mg/kg-day,,,,None
+18,Aldicarb,116-06-3,nov.-01-1993,Yes,Nervous,1 x 10 -3 mg/kg-day,,,,None
+19,Aldicarb sulfone,1646-88-4,nov.-01-1993,Yes,Nervous,1 x 10 -3 mg/kg-day,,,,None
+20,Aldrin,309-00-2,set.-30-1987,Yes,Hepatic,3 x 10 -5 mg/kg-day,,,,Hepatic
+21,Ally,74223-64-6,jun.-30-1988,Yes,None,2.5 x 10 -1 mg/kg-day,,,,None
+22,Allyl alcohol,107-18-6,jan.-31-1987,Yes,"Hepatic
+Urinary",5 x 10 -3 mg/kg-day,,,,None
+23,Allyl chloride,107-05-1,dez.-01-1991,Yes,Nervous,,,1 x 10 -3 mg/m3,,None
+24,Aluminum phosphide,20859-73-8,jan.-31-1987,Yes,None,4 x 10 -4 mg/kg-day,,,,None
+25,Amdro,67485-29-4,set.-30-1987,Yes,Hepatic,3 x 10 -4 mg/kg-day,,,,None
+26,Ametryn,834-12-8,set.-30-1987,Yes,Hepatic,9 x 10 -3 mg/kg-day,,,,None
+27,Aminopyridine,504-24-5,dez.-01-1989,Yes,None,,,,,None
+28,Amitraz,33089-61-1,ago.-22-1988,Yes,Hematologic,2.5 x 10 -3 mg/kg-day,,,,None
+29,Ammonia,7664-41-7,set.-20-2016,Yes,Respiratory,,,5 x 10 -1 mg/m3,,None
+30,Ammonium acetate,631-61-8,mar.-01-1991,No,None,,,,,None
+31,Ammonium methacrylate,16325-47-6,mar.-01-1991,No,None,,,,,None
+32,Ammonium sulfamate,7773-06-0,jan.-01-1989,Yes,None,2 x 10 -1 mg/kg-day,,,,None
+33,Aniline,62-53-3,nov.-01-1990,Yes,Hematologic,,,1 x 10 -3 mg/m3,,Immune
+34,Anisidine,90-04-0,out.-01-1991,Yes,None,,,,,None
+35,Anthracene,120-12-7,jan.-01-1991,No,None,3 x 10 -1 mg/kg-day,,,,None
+36,Antimony,7440-36-0,jan.-31-1987,Yes,Hematologic,4 x 10 -4 mg/kg-day,,,,None
+37,Antimony trioxide,1309-64-4,set.-01-1995,Yes,Respiratory,,,2 x 10 -4 mg/m3,,None
+38,Apollo,74115-24-5,jun.-01-1991,Yes,"Endocrine
+Hepatic",1.3 x 10 -2 mg/kg-day,,,,None
+39,Aramite,140-57-8,jun.-01-1991,Yes,None,,,,,Hepatic
+40,Aroclor 1016,12674-11-2,jan.-01-1993,No,Developmental,7 x 10 -5 mg/kg-day,,,,None
+41,Aroclor 1248,12672-29-6,abr.-01-1994,No,None,,,,,None
+42,Aroclor 1254,11097-69-1,out.-01-1994,No,"Dermal
+Immune
+Ocular",2 x 10 -5 mg/kg-day,,,,None
+43,"Arsenic, Inorganic",7440-38-2,jun.-01-1995,Yes,"Cardiovascular
+Endocrine",6 x 10 -5 mg/kg-day,,,,"Respiratory
+Urinary"
+44,Arsine,7784-42-1,mar.-01-1994,Yes,"Hematologic
+Immune",,,5 x 10 -5 mg/m3,,None
+45,Asbestos,1332-21-4,set.-26-1988,No,None,,,,,Respiratory
+46,Assure,76578-14-8,jun.-01-1991,Yes,Hepatic,9 x 10 -3 mg/kg-day,,,,None
+47,Asulam,3337-71-1,jun.-30-1988,Yes,"Hepatic
+Reproductive",5 x 10 -2 mg/kg-day,,,,None
+48,Atrazine,1912-24-9,out.-01-1993,Yes,None,3.5 x 10 -2 mg/kg-day,,,,None
+49,Avermectin B1,65195-55-3,jul.-01-1989,Yes,Developmental,4 x 10 -4 mg/kg-day,,,,None
+50,Azobenzene,103-33-3,set.-07-1988,Yes,None,,,,,None
+51,Barium and Compounds,7440-39-3,jul.-11-2005,Yes,Urinary,2 x 10 -1 mg/kg-day,,,,None
+52,Barium cyanide,542-62-1,mar.-01-1991,No,None,,,,,None
+53,Baygon,114-26-1,set.-30-1987,Yes,Nervous,4 x 10 -3 mg/kg-day,,,,None
+54,Bayleton,43121-43-3,mar.-01-1988,Yes,Hematologic,3 x 10 -2 mg/kg-day,,,,None
+55,Baythroid,68359-37-5,mar.-01-1988,Yes,Urinary,2.5 x 10 -2 mg/kg-day,,,,None
+56,Benefin,1861-40-1,mar.-31-1987,Yes,Hematologic,3 x 10 -1 mg/kg-day,,,,None
+57,Benomyl,17804-35-2,jan.-31-1987,Yes,Developmental,5 x 10 -2 mg/kg-day,,,,None
+58,Bentazon (Basagran),25057-89-0,mar.-02-1998,Yes,Hematologic,3 x 10 -2 mg/kg-day,,,,None
+59,Benz[a]anthracene,56-55-3,dez.-01-1990,No,None,,,,,None
+60,Benzaldehyde,100-52-7,set.-07-1988,Yes,"Gastrointestinal
+Urinary",1 x 10 -1 mg/kg-day,,,,None
+61,Benzene,71-43-2,abr.-17-2003,No,Immune,4 x 10 -3 mg/kg-day,,3 x 10 -2 mg/m3,,Hematologic
+62,Benzidine,92-87-5,jul.-01-1991,Yes,"Hepatic
+Nervous",3 x 10 -3 mg/kg-day,,,,Urinary
+63,Benzo[a]pyrene (BaP),50-32-8,jan.-19-2017,No,"Developmental
+Immune
+Reproductive",3 x 10 -4 mg/kg-day,,2 x 10 -6 mg/m3,,"Gastrointestinal
+Respiratory"
+64,Benzo[b]fluoranthene,205-99-2,dez.-01-1990,No,None,,,,,None
+65,"Benzo[g,h,i]perylene",191-24-2,dez.-01-1990,No,None,,,,,None
+66,Benzo[k]fluoranthene,207-08-9,nov.-01-1990,No,None,,,,,None
+67,Benzoic acid,65-85-0,ago.-01-1989,Yes,None,4 mg/kg-day,,,,None
+68,Benzotrichloride,98-07-7,jul.-01-1990,No,None,,,,,Respiratory
+69,Benzyl chloride,100-44-7,jan.-01-1992,Yes,None,,,,,Endocrine
+70,Beryllium and compounds,7440-41-7,abr.-03-1998,Yes,"Gastrointestinal
+Immune
+Respiratory",2 x 10 -3 mg/kg-day,,2 x 10 -5 mg/m3,,Respiratory
+71,Bidrin,141-66-2,set.-30-1987,Yes,Reproductive,1 x 10 -4 mg/kg-day,,,,None
+72,Biphenthrin,82657-04-3,ago.-22-1988,Yes,Nervous,1.5 x 10 -2 mg/kg-day,,,,None
+73,Biphenyl,92-52-4,ago.-27-2013,Yes,Urinary,5 x 10 -1 mg/kg-day,,,,Hepatic
+74,Bis(2-chloro-1-methylethyl) ether,108-60-1,out.-01-1989,Yes,Hematologic,4 x 10 -2 mg/kg-day,,,,None
+75,Bis(2-chloroethoxy)methane,111-91-1,mar.-01-1991,Yes,None,,,,,None
+76,Bis(chloroethyl)ether (BCEE),111-44-4,out.-01-1991,Yes,None,,,,,Hepatic
+77,Bis(chloromethyl)ether (BCME),542-88-1,jul.-01-1991,Yes,None,,,,,Respiratory
+78,Bisphenol A,80-05-7,set.-26-1988,Yes,None,5 x 10 -2 mg/kg-day,,,,None
+79,Boron and Compounds,7440-42-8,ago.-05-2004,No,Developmental,2 x 10 -1 mg/kg-day,,,,None
+80,Bromate,15541-45-4,jun.-06-2001,No,Urinary,4 x 10 -3 mg/kg-day,,,,"Endocrine
+Reproductive
+Urinary"
+81,Brominated dibenzofurans,,dez.-01-1990,No,None,,,,,None
+82,Bromobenzene,108-86-1,set.-30-2009,No,Hepatic,8 x 10 -3 mg/kg-day,2 x 10 -2 mg/kg-day,6 x 10 -2 mg/m3,2 x 10 -1 mg/m3,None
+83,Bromochloromethane,74-97-5,mar.-01-1991,No,None,,,,,None
+84,Bromodichloromethane,75-27-4,fev.-01-1993,Yes,Urinary,2 x 10 -2 mg/kg-day,,,,Urinary
+85,Bromodiphenyl ether,101-55-3,ago.-01-1990,No,None,,,,,None
+86,Bromoform,75-25-2,dez.-01-1993,Yes,Hepatic,2 x 10 -2 mg/kg-day,,,,Gastrointestinal
+87,Bromomethane,74-83-9,abr.-01-1992,Yes,"Gastrointestinal
+Nervous
+Respiratory",1.4 x 10 -3 mg/kg-day,,5 x 10 -3 mg/m3,,None
+88,Bromotrichloromethane,75-62-7,mar.-01-1991,Yes,None,,,,,None
+89,Bromoxynil,1689-84-5,jun.-30-1988,No,None,2 x 10 -2 mg/kg-day,,,,None
+90,Bromoxynil octanoate,1689-99-2,set.-07-1988,Yes,None,2 x 10 -2 mg/kg-day,,,,None
+91,Butadiene,106-99-0,nov.-05-2002,No,Reproductive,,,2 x 10 -3 mg/m3,,Hematologic
+92,n-Butanol,71-36-3,mar.-01-1991,Yes,Nervous,1 x 10 -1 mg/kg-day,,,,None
+93,tert-Butyl Alcohol (tBA),75-65-0,ago.-13-2021,No,Urinary,,,,,"Endocrine
+Urinary"
+94,Butyl benzyl phthalate (BBP),85-68-7,set.-01-1989,Yes,Hepatic,2 x 10 -1 mg/kg-day,,,,None
+95,Butylate,2008-41-5,out.-01-1994,Yes,Hepatic,5 x 10 -2 mg/kg-day,,,,None
+96,Butylchloride,507-20-0,abr.-01-1990,No,None,,,,,None
+97,Butylphthalyl butylglycolate (BPBG),85-70-1,mar.-01-1987,No,None,1 mg/kg-day,,,,None
+98,Cacodylic acid,75-60-5,nov.-01-1992,Yes,None,,,,,None
+99,Cadmium,7440-43-9,out.-01-1989,No,Urinary,5 x 10 -4 mg/kg-day,,,,Respiratory
+100,Calcium cyanide,592-01-8,set.-28-2010,Yes,Reproductive,1 x 10 -3 mg/kg-day,,,,None
+101,Caprolactam,105-60-2,set.-01-1994,Yes,Developmental,5 x 10 -1 mg/kg-day,,,,None
+102,Captafol,2425-06-1,set.-30-1987,Yes,Urinary,2 x 10 -3 mg/kg-day,,,,None
+103,Captan,133-06-2,mar.-01-1989,No,None,1.3 x 10 -1 mg/kg-day,,,,None
+104,Carbaryl,63-25-2,nov.-01-1991,Yes,"Hepatic
+Urinary",1 x 10 -1 mg/kg-day,,,,None
+105,Carbofuran,1563-66-2,set.-30-1987,Yes,"Nervous
+Reproductive",5 x 10 -3 mg/kg-day,,,,None
+106,Carbon disulfide,75-15-0,ago.-01-1995,Yes,"Developmental
+Nervous",1 x 10 -1 mg/kg-day,,7 x 10 -1 mg/m3,,None
+107,Carbon tetrachloride,56-23-5,mar.-31-2010,No,Hepatic,4 x 10 -3 mg/kg-day,,1 x 10 -1 mg/m3,,"Endocrine
+Hepatic"
+108,Carbonyl sulfide,463-58-1,nov.-01-1991,Yes,None,,,,,None
+109,Carbosulfan,55285-14-8,jan.-31-1987,Yes,None,1 x 10 -2 mg/kg-day,,,,None
+110,Carboxin,5234-68-4,jan.-31-1987,Yes,None,1 x 10 -1 mg/kg-day,,,,None
+111,Cerium Oxide and Cerium Compounds,1306-38-3,set.-29-2009,No,Respiratory,,,9 x 10 -4 mg/m3,,None
+112,Chloral hydrate,302-17-0,set.-15-2000,Yes,"Gastrointestinal
+Nervous",1 x 10 -1 mg/kg-day,,,,None
+113,Chloramben,133-90-4,jan.-31-1987,Yes,Hepatic,1.5 x 10 -2 mg/kg-day,,,,None
+114,Chlordane (Technical),12789-03-6,fev.-07-1998,Yes,Hepatic,5 x 10 -4 mg/kg-day,,7 x 10 -4 mg/m3,,Hepatic
+115,Chlordecone (Kepone),143-50-0,set.-22-2009,No,Urinary,3 x 10 -4 mg/kg-day,,,,Hepatic
+116,Chlorimuron-ethyl,90982-32-4,nov.-01-1989,Yes,Hematologic,2 x 10 -2 mg/kg-day,,,,None
+117,Chlorine,7782-50-5,jun.-01-1994,Yes,None,1 x 10 -1 mg/kg-day,,,,None
+118,Chlorine cyanide,506-77-4,jan.-31-1987,No,"Endocrine
+Nervous",5 x 10 -2 mg/kg-day,,,,None
+119,Chlorine dioxide,10049-04-4,out.-11-2000,Yes,"Cardiovascular
+Developmental
+Nervous
+Respiratory",3 x 10 -2 mg/kg-day,,2 x 10 -4 mg/m3,,None
+120,Chlorite (sodium salt),7758-19-2,out.-11-2000,No,"Developmental
+Nervous",3 x 10 -2 mg/kg-day,,,,None
+121,"Chloro-1,1-difluoroethane",75-68-3,jul.-01-1995,No,None,,,5 x 10 1 mg/m3,,None
+122,Chloroacetophenone,532-27-4,out.-01-1991,Yes,Respiratory,,,3 x 10 -5 mg/m3,,None
+123,Chloroaniline,106-47-8,ago.-22-1988,Yes,Immune,4 x 10 -3 mg/kg-day,,,,None
+124,Chlorobenzene,108-90-7,nov.-01-1990,Yes,Hepatic,2 x 10 -2 mg/kg-day,,,,None
+125,Chlorobenzilate,510-15-6,dez.-01-1989,Yes,Nervous,2 x 10 -2 mg/kg-day,,,,None
+126,Chlorobutane,109-69-3,abr.-01-1990,No,None,,,,,None
+127,Chlorobutane,78-86-4,abr.-01-1990,No,None,,,,,None
+128,Chlorocyclopentadiene,41851-50-7,mar.-01-1990,No,None,,,,,None
+129,Chlorodifluoromethane,75-45-6,nov.-01-1993,Yes,"Endocrine
+Urinary",,,5 x 10 1 mg/m3,,None
+130,Chloroform,67-66-3,out.-19-2001,No,Hepatic,1 x 10 -2 mg/kg-day,,,,Hepatic
+131,Chloromethyl methyl ether (CMME),107-30-2,set.-30-1987,No,None,,,,,None
+132,Chloronaphthalene,91-58-7,nov.-01-1990,No,"Hepatic
+Respiratory",8 x 10 -2 mg/kg-day,,,,None
+133,Chlorophenol,95-57-8,ago.-22-1988,Yes,Reproductive,5 x 10 -3 mg/kg-day,,,,None
+134,Chlorophenyl methyl sulfide,123-09-1,jun.-01-1993,No,None,,,,,None
+135,Chlorophenyl methyl sulfone,98-57-7,jun.-01-1993,Yes,None,,,,,None
+136,Chlorophenyl methyl sulfoxide,934-73-6,jun.-01-1993,Yes,None,,,,,None
+137,Chloroprene,126-99-8,set.-30-2010,No,"Immune
+Nervous
+Respiratory",,,2 x 10 -2 mg/m3,,"Dermal
+Gastrointestinal
+Hepatic
+Ocular
+Reproductive
+Respiratory"
+138,Chlorothalonil,1897-45-6,mar.-01-1988,No,Urinary,1.5 x 10 -2 mg/kg-day,,,,None
+139,Chlorotoluene,95-49-8,fev.-01-1990,Yes,None,2 x 10 -2 mg/kg-day,,,,None
+140,Chlorpropham,101-21-3,jun.-30-1998,Yes,"Hematologic
+Hepatic
+Immune
+Urinary",2 x 10 -1 mg/kg-day,,,,None
+141,Chlorpyrifos,2921-88-2,mar.-24-2011,No,None,,,,,None
+142,Chlorsulfuron,64902-72-3,jan.-31-1987,Yes,None,5 x 10 -2 mg/kg-day,,,,None
+143,"Chromium(III), insoluble salts",16065-83-1,set.-03-1998,Yes,None,1.5 mg/kg-day,,,,None
+144,Chromium(VI),18540-29-9,ago.-01-2024,Yes,"Gastrointestinal
+Respiratory",9 x 10 -4 mg/kg-day,,3 x 10 -5 mg/m3,,"Gastrointestinal
+Respiratory"
+145,Chrysene,218-01-9,dez.-01-1990,No,None,,,,,None
+146,Cobalt and Cobalt Compounds,1307-96-6,,No,None,,,,,None
+147,Coke oven emissions,,mai.-01-1989,Yes,None,,,,,Respiratory
+148,Copper,7440-50-8,set.-07-1988,No,None,,,,,None
+149,Copper cyanide,544-92-3,set.-07-1988,No,"Hepatic
+Urinary",5 x 10 -3 mg/kg-day,,,,None
+150,Creosote,8001-58-9,set.-07-1988,Yes,None,,,,,None
+151,Crotonaldehyde,123-73-9,jun.-01-1991,No,None,,,,,None
+152,Cumene,98-82-8,ago.-01-1997,Yes,"Endocrine
+Urinary",1 x 10 -1 mg/kg-day,,4 x 10 -1 mg/m3,,None
+153,Cyanazine,21725-46-2,jul.-01-1992,Yes,None,,,,,None
+154,"Cyanide, free",57-12-5,set.-28-2010,Yes,Reproductive,6.3 x 10 -4 mg/kg-day,,,,None
+155,Cyanogen,460-19-5,set.-28-2010,Yes,None,1 x 10 -3 mg/kg-day,,,,None
+156,Cyanogen bromide,506-68-3,set.-26-1988,No,"Endocrine
+Nervous",9 x 10 -2 mg/kg-day,,,,None
+157,Cyclohexane,110-82-7,set.-11-2003,No,Developmental,,,,,None
+158,Cyclohexanone,108-94-1,set.-30-1987,Yes,None,5 mg/kg-day,,,,None
+159,Cyclohexylamine,108-91-8,set.-07-1988,Yes,Reproductive,2 x 10 -1 mg/kg-day,,,,None
+160,Cyhalothrin/Karate,68085-85-8,jun.-30-1988,Yes,Developmental,5 x 10 -3 mg/kg-day,,,,None
+161,Cypermethrin,52315-07-8,mar.-01-1989,No,Gastrointestinal,1 x 10 -2 mg/kg-day,,,,None
+162,Cyromazine,66215-27-8,set.-30-1987,No,Hematologic,7.5 x 10 -3 mg/kg-day,,,,None
+163,Dacthal,1861-32-1,ago.-01-1994,Yes,"Endocrine
+Hepatic
+Ocular
+Respiratory
+Urinary",1 x 10 -2 mg/kg-day,,,,None
+164,"Dalapon, sodium salt",75-99-0,ago.-22-1988,Yes,Urinary,3 x 10 -2 mg/kg-day,,,,None
+165,Danitol,39515-41-8,out.-01-1994,Yes,Nervous,2.5 x 10 -2 mg/kg-day,,,,None
+166,Decabromodiphenyl ether (BDE-209),1163-19-5,jun.-30-2008,Yes,Nervous,7 x 10 -3 mg/kg-day,,,,Hepatic
+167,Demeton,8065-48-3,jan.-31-1987,Yes,Nervous,4 x 10 -5 mg/kg-day,,,,None
+168,Diaminotoluene,95-80-7,mar.-01-1991,Yes,None,,,,,None
+169,Diazomethane,334-88-3,nov.-01-1991,Yes,None,,,,,None
+170,"Dibenz[a,h]anthracene",53-70-3,dez.-01-1990,No,None,,,,,None
+171,Dibenzofuran,132-64-9,out.-01-1990,Yes,None,,,,,None
+172,Dibromo-3-chloropropane (DBCP),96-12-8,out.-01-1991,Yes,Reproductive,,,2 x 10 -4 mg/m3,,None
+173,Dibromobenzene,106-37-6,mar.-31-1987,No,Hepatic,1 x 10 -2 mg/kg-day,,,,None
+174,Dibromochloromethane,124-48-1,jan.-01-1992,Yes,Hepatic,2 x 10 -2 mg/kg-day,,,,Hepatic
+175,Dibromodichloromethane,594-18-3,mar.-01-1991,No,None,,,,,None
+176,Dibromodiphenyl ether,2050-47-7,ago.-01-1990,No,None,,,,,None
+177,Dibromoethane,106-93-4,jul.-29-2004,No,"Endocrine
+Hepatic
+Reproductive
+Respiratory",9 x 10 -3 mg/kg-day,,9 x 10 -3 mg/m3,,"Endocrine
+Gastrointestinal
+Reproductive
+Respiratory"
+178,Dibutyl phthalate (DBP),84-74-2,out.-01-1990,Yes,None,1 x 10 -1 mg/kg-day,,,,None
+179,Dicamba,1918-00-9,ago.-22-1988,Yes,Developmental,3 x 10 -2 mg/kg-day,,,,None
+180,Dichloroacetic acid,79-43-6,set.-11-2003,No,"Hepatic
+Nervous
+Reproductive",,,,,Hepatic
+181,Dichlorobenzene,95-50-1,nov.-01-1990,No,None,9 x 10 -2 mg/kg-day,,,,None
+182,Dichlorobenzene,541-73-1,set.-01-1990,No,None,,,,,None
+183,Dichlorobenzene,106-46-7,jan.-01-1994,No,Hepatic,,,8 x 10 -1 mg/m3,,None
+184,Dichlorobenzidine,91-94-1,nov.-01-1991,No,None,,,,,Reproductive
+185,Dichlorodifluoromethane,75-71-8,jan.-31-1987,No,None,2 x 10 -1 mg/kg-day,,,,None
+186,Dichlorodiphenyl dichloroethane (DDD),72-54-8,ago.-22-1988,Yes,None,,,,,Hepatic
+187,Dichlorodiphenyldichloroethylene (DDE),72-55-9,ago.-22-1988,Yes,None,,,,,Hepatic
+188,Dichlorodiphenyltrichloroethane (DDT),50-29-3,ago.-22-1988,Yes,Hepatic,5 x 10 -4 mg/kg-day,,,,Hepatic
+189,Dichloroethane,75-34-3,out.-01-1990,Yes,None,,,,,None
+190,Dichloroethane,107-06-2,mar.-31-1987,No,None,,,,,None
+191,Dichloroethylene,156-59-2,set.-30-2010,Yes,Urinary,2 x 10 -3 mg/kg-day,,,,None
+192,Dichloroethylene,156-60-5,set.-30-2010,Yes,Immune,2 x 10 -2 mg/kg-day,,,,None
+193,"Dichloroethylene (1,1-DCE)",75-35-4,ago.-13-2002,No,Hepatic,5 x 10 -2 mg/kg-day,,2 x 10 -1 mg/m3,,None
+194,Dichloromethane,75-09-2,nov.-18-2011,Yes,Hepatic,6 x 10 -3 mg/kg-day,,6 x 10 -1 mg/m3,,"Hepatic
+Respiratory"
+195,Dichlorophenol,120-83-2,jan.-31-1987,Yes,Immune,3 x 10 -3 mg/kg-day,,,,None
+196,"Dichlorophenoxy)butyric acid (2,4-DB)",94-82-6,jan.-31-1987,Yes,None,8 x 10 -3 mg/kg-day,,,,None
+197,"Dichlorophenoxyacetic acid (2,4-D)",94-75-7,mar.-31-1987,Yes,"Hematologic
+Hepatic
+Urinary",1 x 10 -2 mg/kg-day,,,,None
+198,Dichloropropane,78-87-5,dez.-01-1991,Yes,Respiratory,,,,,None
+199,Dichloropropanol,616-23-9,nov.-01-1990,No,"Cardiovascular
+Hepatic
+Urinary",3 x 10 -3 mg/kg-day,,,,None
+200,Dichloropropene,542-75-6,mai.-25-2000,Yes,"Gastrointestinal
+Respiratory",3 x 10 -2 mg/kg-day,,2 x 10 -2 mg/m3,,"Hepatic
+Respiratory
+Urinary"
+201,Dichlorvos,62-73-7,jun.-01-1994,Yes,Nervous,5 x 10 -4 mg/kg-day,,5 x 10 -4 mg/m3,,"Endocrine
+Gastrointestinal
+Hematologic"
+202,Dicofol,115-32-2,abr.-01-1992,Yes,None,,,,,None
+203,Dieldrin,60-57-1,set.-07-1988,Yes,Hepatic,5 x 10 -5 mg/kg-day,,,,Hepatic
+204,Diesel engine exhaust,,fev.-28-2003,No,Respiratory,,,5 x 10 -3 mg/m3,,None
+205,Diethyl phthalate (DEP),84-66-2,set.-07-1988,Yes,None,8 x 10 -1 mg/kg-day,,,,None
+206,Diethyl sulfate,64-67-5,nov.-01-1991,Yes,None,,,,,None
+207,Diethyl-p-nitrophenylphosphate,311-45-5,out.-01-1992,No,None,,,,,None
+208,Diethylene glycol dinitrate (DEGDN),693-21-0,fev.-01-1993,No,None,,,,,None
+209,Di(2-ethylhexyl)adipate,103-23-1,jul.-01-1992,No,"Developmental
+Hepatic
+Musculoskeletal
+Urinary",6 x 10 -1 mg/kg-day,,,,Hepatic
+210,Di (2-ethylhexyl)phthalate (DEHP),117-81-7,set.-07-1988,No,Hepatic,2 x 10 -2 mg/kg-day,,,,Hepatic
+211,Difenzoquat,43222-48-6,ago.-22-1988,Yes,None,8 x 10 -2 mg/kg-day,,,,None
+212,Diflubenzuron,35367-38-5,set.-30-1987,No,Hematologic,2 x 10 -2 mg/kg-day,,,,None
+213,Difluoroethane,75-37-6,set.-01-1994,No,None,,,4 x 10 1 mg/m3,,None
+214,Diisobutyl phthalate (DIBP),84-69-5,,No,None,,,,,None
+215,Diisononyl phthalate (DINP),28553-12-0,,No,None,,,,,None
+216,Diisopropyl methylphosphonate (DIMP),1445-75-6,abr.-01-1989,Yes,None,8 x 10 -2 mg/kg-day,,,,None
+217,Dimethipin,55290-64-7,mai.-01-1990,Yes,Hepatic,2 x 10 -2 mg/kg-day,,,,None
+218,Dimethoate,60-51-5,ago.-22-1988,Yes,Nervous,2 x 10 -4 mg/kg-day,,,,None
+219,Dimethyl phthalate,131-11-3,set.-01-1990,Yes,None,,,,,None
+220,Dimethyl sulfate,77-78-1,jan.-01-1992,Yes,None,,,,,None
+221,Dimethyl terephthalate (DMT),120-61-6,jan.-31-1987,Yes,Urinary,1 x 10 -1 mg/kg-day,,,,None
+222,Dimethylamine,124-40-3,jan.-01-1991,Yes,None,,,,,None
+223,Dimethylaniline,121-69-7,set.-30-1987,Yes,"Hematologic
+Immune",2 x 10 -3 mg/kg-day,,,,None
+224,Dimethylbenzidine,119-93-7,jul.-01-1991,Yes,None,,,,,None
+225,Dimethylformamide,68-12-2,out.-01-1990,Yes,Hepatic,,,3 x 10 -2 mg/m3,,None
+226,Dimethylphenol,105-67-9,nov.-01-1990,Yes,"Hematologic
+Nervous",2 x 10 -2 mg/kg-day,,,,None
+227,Dimethylphenol,576-26-1,set.-07-1988,No,"Hepatic
+Immune
+Urinary",6 x 10 -4 mg/kg-day,,,,None
+228,Dimethylphenol,95-65-8,set.-07-1988,No,"Cardiovascular
+Hepatic
+Immune
+Urinary",1 x 10 -3 mg/kg-day,,,,None
+229,Dinitro-o-cyclohexyl phenol,131-89-5,ago.-22-1988,Yes,Ocular,2 x 10 -3 mg/kg-day,,,,None
+230,Dinitrobenzene,99-65-0,mar.-01-1991,No,Immune,1 x 10 -4 mg/kg-day,,,,None
+231,Dinitrobenzene,528-29-0,set.-01-1992,No,None,,,,,None
+232,Dinitrophenol,51-28-5,out.-01-1991,No,Ocular,2 x 10 -3 mg/kg-day,,,,None
+233,Dinitrotoluene,121-14-2,jun.-01-1992,Yes,"Hematologic
+Hepatic
+Nervous",2 x 10 -3 mg/kg-day,,,,None
+234,Dinitrotoluene mixture,Various,set.-01-1990,Yes,None,,,,,"Hepatic
+Reproductive"
+235,Dinoseb,88-85-7,ago.-01-1989,Yes,Developmental,1 x 10 -3 mg/kg-day,,,,None
+236,Dioxane,123-91-1,set.-20-2013,Yes,"Hepatic
+Nervous
+Respiratory
+Urinary",,,,,"Gastrointestinal
+Hepatic
+Reproductive
+Respiratory
+Urinary"
+237,Diphenamid,957-51-7,set.-30-1987,Yes,Hepatic,3 x 10 -2 mg/kg-day,,,,None
+238,Diphenylamine,122-39-4,jan.-31-1987,Yes,"Hepatic
+Urinary",2.5 x 10 -2 mg/kg-day,,,,None
+239,Diphenylhydrazine,122-66-7,nov.-01-1991,No,None,,,,,Hepatic
+240,Diquat,2764-72-9,mar.-31-1987,Yes,Ocular,2.2 x 10 -3 mg/kg-day,,,,None
+241,Disulfoton,298-04-4,mar.-31-1987,Yes,Nervous,4 x 10 -5 mg/kg-day,,,,None
+242,Dithiane,505-29-3,mar.-01-1993,No,"Nervous
+Respiratory",1 x 10 -2 mg/kg-day,,,,None
+243,Diuron,330-54-1,ago.-22-1988,Yes,Hematologic,2 x 10 -3 mg/kg-day,,,,None
+244,Dodine,2439-10-3,set.-30-1987,Yes,Endocrine,4 x 10 -3 mg/kg-day,,,,None
+245,Endosulfan,115-29-7,out.-01-1994,Yes,"Cardiovascular
+Urinary",6 x 10 -3 mg/kg-day,,,,None
+246,Endothall,145-73-3,mar.-31-1987,Yes,Gastrointestinal,2 x 10 -2 mg/kg-day,,,,None
+247,Endrin,72-20-8,out.-01-1989,Yes,"Hepatic
+Nervous",3 x 10 -4 mg/kg-day,,,,None
+248,Epichlorohydrin,106-89-8,abr.-01-1992,Yes,Respiratory,,,1 x 10 -3 mg/m3,,"Gastrointestinal
+Respiratory"
+249,Epoxybutane (EBU),106-88-7,mai.-01-1992,Yes,Respiratory,,,2 x 10 -2 mg/m3,,None
+250,Ethephon,16672-87-0,ago.-22-1988,Yes,Nervous,5 x 10 -3 mg/kg-day,,,,None
+251,Ethion,563-12-2,set.-01-1989,No,Nervous,5 x 10 -4 mg/kg-day,,,,None
+252,Ethoxyethanol,110-80-5,mai.-01-1991,Yes,"Hematologic
+Reproductive",,,2 x 10 -1 mg/m3,,None
+253,Ethyl acetate,141-78-6,mar.-01-1987,Yes,None,9 x 10 -1 mg/kg-day,,,,None
+254,Ethyl carbamate,51-79-6,abr.-01-1992,Yes,None,,,,,None
+255,Ethyl chloride,75-00-3,abr.-01-1991,No,"Developmental
+Musculoskeletal",,,1 x 10 1 mg/m3,,None
+256,Ethyl dipropylthiocarbamate (EPTC),759-94-4,set.-30-1987,Yes,Cardiovascular,2.5 x 10 -2 mg/kg-day,,,,None
+257,Ethyl ether,60-29-7,set.-01-1990,Yes,None,2 x 10 -1 mg/kg-day,,,,None
+258,Ethyl p-nitrophenyl phenylphosphorothioate (EPN),2104-64-5,set.-30-1987,Yes,Nervous,1 x 10 -5 mg/kg-day,,,,None
+259,Ethyl Tertiary Butyl Ether (ETBE),637-92-3,ago.-13-2021,No,Urinary,,,,,Hepatic
+260,Ethylbenzene,100-41-4,mar.-01-1991,No,"Developmental
+Hepatic
+Urinary",1 x 10 -1 mg/kg-day,,1 mg/m3,,None
+261,Ethylene diamine,107-15-3,nov.-01-1992,Yes,None,,,,,None
+262,Ethylene glycol,107-21-1,set.-30-1987,Yes,Urinary,2 mg/kg-day,,,,None
+263,Ethylene glycol monobutyl ether (EGBE) (2-Butoxyethanol),111-76-2,mar.-31-2010,No,Hematologic,1 x 10 -1 mg/kg-day,,1.6 mg/m3,,None
+264,Ethylene oxide,75-21-8,dez.-16-2016,No,None,,,,,"Immune
+Reproductive"
+265,Ethylene thiourea (ETU),96-45-7,mai.-01-1991,Yes,Endocrine,8 x 10 -5 mg/kg-day,,,,None
+266,Ethyleneimine,151-56-4,abr.-01-1992,Yes,None,,,,,None
+267,Ethylphthalyl ethylglycolate (EPEG),84-72-0,jan.-31-1987,No,Urinary,3 mg/kg-day,,,,None
+268,Express,101200-48-0,jan.-01-1989,Yes,Urinary,8 x 10 -3 mg/kg-day,,,,None
+269,Fenamiphos,22224-92-6,set.-30-1987,Yes,Nervous,2.5 x 10 -4 mg/kg-day,,,,None
+270,Fluometuron,2164-17-2,set.-30-1987,Yes,None,1.3 x 10 -2 mg/kg-day,,,,None
+271,Fluoranthene,206-44-0,dez.-01-1990,No,"Hepatic
+Urinary",4 x 10 -2 mg/kg-day,,,,None
+272,Fluorene,86-73-7,dez.-01-1990,No,Hematologic,4 x 10 -2 mg/kg-day,,,,None
+273,Fluorine (soluble fluoride),7782-41-4,jan.-31-1987,Yes,Gastrointestinal,6 x 10 -2 mg/kg-day,,,,None
+274,Fluridone,59756-60-4,ago.-22-1988,Yes,"Ocular
+Reproductive
+Urinary",8 x 10 -2 mg/kg-day,,,,None
+275,Flurprimidol,56425-91-3,jul.-01-1989,Yes,Hepatic,2 x 10 -2 mg/kg-day,,,,None
+276,Flutolanil,66332-96-5,mai.-01-1989,Yes,"Hepatic
+Reproductive",6 x 10 -2 mg/kg-day,,,,None
+277,Fluvalinate,69409-94-5,jun.-30-1988,Yes,Dermal,1 x 10 -2 mg/kg-day,,,,None
+278,Folpet,133-07-3,ago.-22-1988,Yes,Hepatic,1 x 10 -1 mg/kg-day,,,,Gastrointestinal
+279,Fomesafen,72178-02-0,ago.-22-1988,Yes,None,,,,,Hepatic
+280,Fonofos,944-22-9,mar.-31-1987,Yes,"Hepatic
+Nervous",2 x 10 -3 mg/kg-day,,,,None
+281,Formaldehyde,50-00-0,ago.-19-2024,No,"Gastrointestinal
+Respiratory
+Urinary",2 x 10 -1 mg/kg-day,,7 x 10 -3 mg/m3,,"Hematologic
+Respiratory"
+282,Formic acid,64-18-6,dez.-01-1990,Yes,None,,,,,None
+283,Fosetyl-al,39148-24-8,ago.-22-1988,Yes,Reproductive,3 mg/kg-day,,,,None
+284,Furan,110-00-9,jan.-31-1987,Yes,Hepatic,1 x 10 -3 mg/kg-day,,,,None
+285,Furfural,98-01-1,set.-07-1988,Yes,Hepatic,3 x 10 -3 mg/kg-day,,,,None
+286,Furmecyclox,60568-05-0,set.-07-1988,Yes,None,,,,,Hepatic
+287,Glufosinate-ammonium,77182-82-2,set.-30-1987,Yes,Urinary,4 x 10 -4 mg/kg-day,,,,None
+288,Glycidaldehyde,765-34-4,ago.-01-1991,No,"Endocrine
+Hematologic
+Urinary",4 x 10 -4 mg/kg-day,,,,None
+289,Glyphosate,1071-83-6,out.-01-1989,No,"Developmental
+Urinary",1 x 10 -1 mg/kg-day,,,,None
+290,Haloxyfop-methyl,69806-40-2,mai.-01-1990,Yes,"Reproductive
+Urinary",5 x 10 -5 mg/kg-day,,,,None
+291,Harmony,79277-27-3,set.-26-1988,Yes,None,1.3 x 10 -2 mg/kg-day,,,,None
+292,Heptachlor,76-44-8,set.-30-1987,Yes,Hepatic,5 x 10 -4 mg/kg-day,,,,Hepatic
+293,Heptachlor epoxide,1024-57-3,set.-30-1987,Yes,Hepatic,1.3 x 10 -5 mg/kg-day,,,,Hepatic
+294,Heptane,142-82-5,jan.-01-1993,Yes,None,,,,,None
+295,Hexabromobenzene,87-82-1,mar.-31-1987,No,Hepatic,2 x 10 -3 mg/kg-day,,,,None
+296,Hexabromocyclododecane (HBCD),3194-55-6,,No,None,,,,,None
+297,Hexabromodiphenyl ether (BDE-153),68631-49-2,jun.-30-2008,No,Nervous,2 x 10 -4 mg/kg-day,,,,None
+298,Hexabromodiphenyl ether,36483-60-0,ago.-01-1990,Yes,None,,,,,None
+299,Hexachlorobenzene,118-74-1,mar.-01-1991,Yes,Hepatic,8 x 10 -4 mg/kg-day,,,,Hepatic
+300,Hexachlorobutadiene,87-68-3,mai.-01-1993,No,None,,,,,Urinary
+301,Hexachlorocyclohexane (alpha-HCH),319-84-6,mar.-31-1987,Yes,None,,,,,Hepatic
+302,Hexachlorocyclohexane (beta-HCH),319-85-7,set.-30-1987,Yes,None,,,,,Hepatic
+303,Hexachlorocyclohexane (delta-HCH),319-86-8,mar.-31-1987,Yes,None,,,,,None
+304,Hexachlorocyclohexane (epsilon-HC),6108-10-7,mar.-31-1987,Yes,None,,,,,None
+305,Hexachlorocyclohexane (gamma-HCH),58-89-9,jan.-31-1987,No,"Hepatic
+Urinary",3 x 10 -4 mg/kg-day,,,,None
+306,Hexachlorocyclohexane (t-HCH),608-73-1,mar.-31-1987,Yes,None,,,,,Hepatic
+307,Hexachlorocyclopentadiene (HCCPD),77-47-4,jul.-05-2001,Yes,"Gastrointestinal
+Respiratory",6 x 10 -3 mg/kg-day,,2 x 10 -4 mg/m3,,None
+308,"Hexachlorodibenzo-p-dioxin (HxCDD), mixture of 1,2,3,6,7,8-HxCDD and 1,2,3,7,8,9-HxCDD",57653-85-7,mar.-31-1987,Yes,None,,,,,Hepatic
+309,Hexachloroethane,67-72-1,set.-23-2011,Yes,"Nervous
+Urinary",7 x 10 -4 mg/kg-day,,3 x 10 -2 mg/m3,,Urinary
+310,Hexachlorophene,70-30-4,ago.-22-1988,Yes,"Gastrointestinal
+Nervous",3 x 10 -4 mg/kg-day,,,,None
+311,"Hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX)",121-82-4,ago.-30-2018,No,"Nervous
+Reproductive
+Urinary",4 x 10 -3 mg/kg-day,,,,"Hepatic
+Respiratory"
+312,Hexamethylene diisocyanate,822-06-0,set.-01-1994,Yes,"Nervous
+Respiratory",,,1 x 10 -5 mg/m3,,None
+313,Hexane,110-54-3,dez.-23-2005,Yes,Nervous,,,7 x 10 -1 mg/m3,,None
+314,Hexanone,591-78-6,set.-25-2009,No,Nervous,5 x 10 -3 mg/kg-day,,3 x 10 -2 mg/m3,,None
+315,Hexazinone,51235-04-2,set.-30-1987,Yes,None,3.3 x 10 -2 mg/kg-day,,,,None
+316,Hydrazine/Hydrazine sulfate,302-01-2,set.-07-1988,Yes,None,,,,,"Hepatic
+Respiratory"
+317,Hydrogen chloride,7647-01-0,jul.-01-1995,Yes,Respiratory,,,2 x 10 -2 mg/m3,,None
+318,Hydrogen Cyanide and Cyanide Salts,Various,set.-28-2010,No,"Endocrine
+Reproductive",6 x 10 -4 mg/kg-day,,8 x 10 -4 mg/m3,,None
+319,Hydrogen sulfide,7783-06-4,jul.-28-2003,No,"Nervous
+Respiratory",,,2 x 10 -3 mg/m3,,None
+320,Hydroquinone,123-31-9,out.-01-1990,Yes,None,,,,,None
+321,Imazalil,35554-44-0,mar.-31-1987,Yes,None,1.3 x 10 -2 mg/kg-day,,,,None
+322,Imazaquin,81335-37-7,jan.-31-1987,Yes,"Hematologic
+Hepatic
+Immune",2.5 x 10 -1 mg/kg-day,,,,None
+323,"Indeno[1,2,3-cd]pyrene",193-39-5,dez.-01-1990,No,None,,,,,None
+324,Iprodione,36734-19-7,jun.-30-1988,Yes,"Hematologic
+Reproductive",4 x 10 -2 mg/kg-day,,,,None
+325,Isobutyl alcohol,78-83-1,mar.-31-1987,Yes,Nervous,3 x 10 -1 mg/kg-day,,,,None
+326,Isophorone,78-59-1,out.-01-1992,Yes,Urinary,2 x 10 -1 mg/kg-day,,,,Reproductive
+327,Isopropalin,33820-53-0,jan.-31-1987,Yes,Hematologic,1.5 x 10 -2 mg/kg-day,,,,None
+328,Isopropyl methyl phosphonic acid (IMPA),1832-54-8,jun.-01-1992,No,None,1 x 10 -1 mg/kg-day,,,,None
+329,Isoxaben,82558-50-7,set.-01-1991,Yes,"Cardiovascular
+Hepatic
+Urinary",5 x 10 -2 mg/kg-day,,,,None
+330,Lactofen,77501-63-4,jun.-30-1988,Yes,Hepatic,2 x 10 -3 mg/kg-day,,,,None
+331,Lead and compounds (inorganic),7439-92-1,jul.-08-2004,Yes,None,,,,,None
+332,Libby Amphibole Asbestos,1318-09-8,dez.-08-2014,No,Respiratory,,,9 x 10 -5 fiber/cc,,Respiratory
+333,Limonene,5989-27-5,dez.-01-1993,Yes,None,,,,,None
+334,Linuron,330-55-2,ago.-01-1989,Yes,Hematologic,2 x 10 -3 mg/kg-day,,,,None
+335,Londax,83055-99-6,set.-07-1988,Yes,Hepatic,2 x 10 -1 mg/kg-day,,,,None
+336,Malathion,121-75-5,set.-30-1987,Yes,Nervous,2 x 10 -2 mg/kg-day,,,,None
+337,Maleic anhydride,108-31-6,ago.-22-1988,Yes,Urinary,1 x 10 -1 mg/kg-day,,,,None
+338,Maleic hydrazide,123-33-1,mar.-31-1987,Yes,Urinary,5 x 10 -1 mg/kg-day,,,,None
+339,Maneb,12427-38-2,set.-07-1988,Yes,Endocrine,5 x 10 -3 mg/kg-day,,,,None
+340,Manganese,7439-96-5,nov.-01-1995,Yes,Nervous,1.4 x 10 -1 mg/kg-day,,5 x 10 -5 mg/m3,,None
+341,Mepiquat chloride,24307-26-4,ago.-22-1988,Yes,"Hematologic
+Nervous",3 x 10 -2 mg/kg-day,,,,None
+342,Mercuric chloride (HgCl2),7487-94-7,mai.-01-1995,Yes,"Immune
+Urinary",3 x 10 -4 mg/kg-day,,,,None
+343,"Mercury, elemental",7439-97-6,jun.-01-1995,Yes,Nervous,,,3 x 10 -4 mg/m3,,None
+344,Merphos,150-50-5,nov.-01-1992,Yes,Nervous,3 x 10 -5 mg/kg-day,,,,None
+345,Merphos oxide,78-48-8,nov.-01-1992,Yes,Nervous,3 x 10 -5 mg/kg-day,,,,None
+346,Metalaxyl,57837-19-1,jan.-31-1987,Yes,Hepatic,6 x 10 -2 mg/kg-day,,,,None
+347,Methacrylonitrile,126-98-7,set.-07-1988,Yes,Hepatic,1 x 10 -4 mg/kg-day,,,,None
+348,Methamidophos,10265-92-6,set.-30-1987,Yes,Nervous,5 x 10 -5 mg/kg-day,,,,None
+349,Methanol,67-56-1,set.-30-2013,No,"Developmental
+Nervous",2 mg/kg-day,,2 x 10 1 mg/m3,,None
+350,Methidathion,950-37-8,mai.-01-1989,No,Hepatic,1 x 10 -3 mg/kg-day,,,,None
+351,Methomyl,16752-77-5,jan.-31-1987,Yes,"Immune
+Urinary",2.5 x 10 -2 mg/kg-day,,,,None
+352,Methoxychlor,72-43-5,dez.-01-1993,Yes,Developmental,5 x 10 -3 mg/kg-day,,,,None
+353,Methoxyethanol,109-86-4,mai.-01-1991,Yes,Reproductive,,,2 x 10 -2 mg/m3,,None
+354,Methyl acrylate,96-33-3,dez.-01-1990,Yes,None,,,,,None
+355,Methyl chloride,74-87-3,jul.-17-2001,Yes,Nervous,,,9 x 10 -2 mg/m3,,None
+356,Methyl chlorocarbonate,79-22-1,mai.-01-1989,No,None,,,,,None
+357,Methyl ethyl ketone (MEK),78-93-3,set.-26-2003,No,"Developmental
+Musculoskeletal",6 x 10 -1 mg/kg-day,,5 mg/m3,,None
+358,Methyl iodide,74-88-4,set.-01-1992,No,None,,,,,None
+359,Methyl isobutyl ketone (MIBK),108-10-1,abr.-25-2003,No,"Developmental
+Musculoskeletal",,,3 mg/m3,,None
+360,Methyl isocyanate,624-83-9,mar.-01-1991,Yes,None,,,,,None
+361,Methyl methacrylate,80-62-6,mar.-02-1998,No,"Nervous
+Respiratory",1.4 mg/kg-day,,7 x 10 -1 mg/m3,,None
+362,Methyl parathion,298-00-0,mar.-31-1987,No,"Hematologic
+Nervous",2.5 x 10 -4 mg/kg-day,,,,None
+363,Methyl tert-butyl ether (MTBE),1634-04-4,set.-01-1993,No,"Hepatic
+Ocular
+Urinary",,,3 mg/m3,,None
+364,Methyl-4-chlorophenoxy) butyric acid (MCPB),94-81-5,set.-26-1988,Yes,"Hepatic
+Reproductive
+Urinary",1 x 10 -2 mg/kg-day,,,,None
+365,Methyl-4-chlorophenoxy)propionic acid (MCPP),93-65-2,jan.-01-1989,Yes,Urinary,1 x 10 -3 mg/kg-day,,,,None
+366,Methyl-4-chlorophenoxyacetic acid (MCPA),94-74-6,ago.-28-1987,Yes,"Hepatic
+Urinary",5 x 10 -4 mg/kg-day,,,,None
+367,Methylene Diphenyl Diisocyanate (monomeric MDI) and polymeric MDI (PMDI),101-68-8,fev.-07-1998,Yes,"Nervous
+Respiratory",,,6 x 10 -4 mg/m3,,None
+368,"Methylene bis(N,N'-dimethyl)aniline",101-61-1,ago.-01-1989,No,None,,,,,Endocrine
+369,Methylmercury (MeHg),22967-92-6,jul.-27-2001,Yes,"Developmental
+Nervous",1 x 10 -4 mg/kg-day,,,,None
+370,Methylnaphthalene,91-57-6,dez.-22-2003,No,Respiratory,4 x 10 -3 mg/kg-day,,,,None
+371,Methylphenol,95-48-7,abr.-01-1992,Yes,Nervous,5 x 10 -2 mg/kg-day,,,,None
+372,Methylphenol,108-39-4,abr.-01-1992,Yes,Nervous,5 x 10 -2 mg/kg-day,,,,None
+373,Methylphenol,106-44-5,abr.-01-1992,Yes,None,,,,,None
+374,Metolachlor,51218-45-2,out.-01-1990,No,Reproductive,1.5 x 10 -1 mg/kg-day,,,,None
+375,Metribuzin,21087-64-9,dez.-01-1993,Yes,"Hepatic
+Urinary",2.5 x 10 -2 mg/kg-day,,,,None
+376,Mirex,2385-85-5,out.-01-1992,No,"Endocrine
+Hepatic",2 x 10 -4 mg/kg-day,,,,None
+377,Molinate,2212-67-1,set.-26-1988,Yes,Reproductive,2 x 10 -3 mg/kg-day,,,,None
+378,Molybdenum,7439-98-7,nov.-01-1992,Yes,Urinary,5 x 10 -3 mg/kg-day,,,,None
+379,Monochloramine,10599-90-3,mar.-01-1994,No,None,1 x 10 -1 mg/kg-day,,,,None
+380,Naled,300-76-5,mar.-31-1987,Yes,Nervous,2 x 10 -3 mg/kg-day,,,,None
+381,Naphthalene,91-20-3,set.-17-1998,No,"Nervous
+Respiratory",2 x 10 -2 mg/kg-day,,3 x 10 -3 mg/m3,,None
+382,Napropamide,15299-99-7,jul.-01-1989,Yes,Reproductive,1 x 10 -1 mg/kg-day,,,,None
+383,Nickel carbonyl,13463-39-3,set.-30-1987,Yes,None,,,,,None
+384,Nickel refinery dust,,set.-30-1987,No,None,,,,,Respiratory
+385,Nickel subsulfide,12035-72-2,set.-30-1987,Yes,None,,,,,Respiratory
+386,"Nickel, soluble salts",Various,ago.-01-1994,No,None,2 x 10 -2 mg/kg-day,,,,None
+387,Nitrapyrin,1929-82-4,jul.-01-1992,Yes,None,,,,,None
+388,Nitrate,14797-55-8,mai.-01-1991,Yes,Hematologic,1.6 mg/kg-day,,,,None
+389,Nitric oxide,10102-43-9,set.-01-1994,Yes,None,,,,,None
+390,Nitrite,14797-65-0,jan.-31-1987,Yes,Hematologic,1 x 10 -1 mg/kg-day,,,,None
+391,Nitrobenzene,98-95-3,fev.-06-2009,No,"Hematologic
+Nervous
+Respiratory",2 x 10 -3 mg/kg-day,,9 x 10 -3 mg/m3,,"Endocrine
+Hepatic
+Urinary"
+392,Nitrogen dioxide,10102-44-0,set.-01-1994,Yes,None,,,,,None
+393,Nitroguanidine,556-88-7,set.-01-1990,Yes,Developmental,1 x 10 -1 mg/kg-day,,,,None
+394,Nitrophenol,100-02-7,out.-01-1991,Yes,None,,,,,None
+395,Nitropropane,79-46-9,mar.-01-1991,Yes,Hepatic,,,2 x 10 -2 mg/m3,,None
+396,Nitroso-N-methylethylamine,10595-95-6,mar.-01-1988,Yes,None,,,,,Hepatic
+397,Nitroso-di-n-butylamine,924-16-3,jan.-31-1987,Yes,None,,,,,"Gastrointestinal
+Urinary"
+398,Nitrosodi-N-propylamine,621-64-7,mar.-31-1987,Yes,None,,,,,Hepatic
+399,Nitrosodiethanolamine,1116-54-7,set.-30-1987,Yes,None,,,,,Hepatic
+400,Nitrosodiethylamine,55-18-5,jan.-31-1987,Yes,None,,,,,Hepatic
+401,Nitrosodimethylamine,62-75-9,jan.-31-1987,Yes,None,,,,,Hepatic
+402,Nitrosodiphenylamine,86-30-6,mar.-31-1987,Yes,None,,,,,Urinary
+403,Nitrosopyrrolidine,930-55-2,jan.-31-1987,Yes,None,,,,,Hepatic
+404,Nonabromodiphenyl ether,63936-56-1,ago.-01-1990,Yes,None,,,,,None
+405,Norflurazon,27314-13-2,jan.-31-1987,Yes,"Endocrine
+Hepatic",4 x 10 -2 mg/kg-day,,,,None
+406,NuStar,85509-19-9,set.-26-1988,Yes,Hepatic,7 x 10 -4 mg/kg-day,,,,None
+407,Octabromodiphenyl ether,32536-52-0,ago.-01-1990,Yes,Hepatic,3 x 10 -3 mg/kg-day,,,,None
+408,"Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine (HMX)",2691-41-0,mar.-01-1989,Yes,Hepatic,5 x 10 -2 mg/kg-day,,,,None
+409,Oryzalin,19044-88-3,jul.-01-1989,Yes,"Endocrine
+Hepatic
+Urinary",5 x 10 -2 mg/kg-day,,,,None
+410,Oxadiazon,19666-30-9,set.-30-1987,Yes,"Hematologic
+Hepatic",5 x 10 -3 mg/kg-day,,,,None
+411,Oxamyl,23135-22-0,mar.-31-1987,Yes,None,2.5 x 10 -2 mg/kg-day,,,,None
+412,Oxyfluorfen,42874-03-3,jan.-31-1987,Yes,Hepatic,3 x 10 -3 mg/kg-day,,,,None
+413,Paclobutrazol,76738-62-0,mar.-31-1987,Yes,Hepatic,1.3 x 10 -2 mg/kg-day,,,,None
+414,Paraquat,1910-42-5,ago.-22-1988,Yes,Respiratory,4.5 x 10 -3 mg/kg-day,,,,None
+415,Parathion,56-38-2,ago.-22-1988,Yes,None,,,,,None
+416,Pendimethalin,40487-42-1,jun.-30-1988,No,Hepatic,4 x 10 -2 mg/kg-day,,,,None
+417,Pentabromodiphenyl ether (BDE-99),60348-60-9,jun.-30-2008,No,Nervous,1 x 10 -4 mg/kg-day,,,,None
+418,Pentabromodiphenyl ether,32534-81-9,ago.-01-1990,Yes,Hepatic,2 x 10 -3 mg/kg-day,,,,None
+419,Pentachlorobenzene,608-93-5,nov.-01-1992,Yes,"Hepatic
+Urinary",8 x 10 -4 mg/kg-day,,,,None
+420,Pentachlorocyclopentadiene,25329-35-5,mar.-01-1990,No,None,,,,,None
+421,Pentachloronitrobenzene (PCNB),82-68-8,set.-30-1987,Yes,Hepatic,3 x 10 -3 mg/kg-day,,,,None
+422,Pentachlorophenol,87-86-5,set.-30-2010,No,Hepatic,5 x 10 -3 mg/kg-day,,,,"Endocrine
+Hepatic"
+423,Pentafluoroethane,354-33-6,dez.-01-1993,Yes,None,,,,,None
+424,Perchlorate (ClO4) and Perchlorate Salts,7790-98-9,fev.-18-2005,No,Endocrine,7 x 10 -4 mg/kg-day,,,,None
+425,Perfluorobutanoic Acid (PFBA),375-22-4,dez.-22-2022,No,"Developmental
+Endocrine
+Hepatic",1 x 10 -3 mg/kg-day,,,,None
+426,Perfluorodecanoic Acid (PFDA),335-76-2,jul.-15-2024,No,"Developmental
+Immune",,,,,None
+427,Perfluorohexanesulfonic Acid (PFHxS),355-46-4,dez.-22-2022,No,"Developmental
+Endocrine
+Immune",4 x 10 -10 mg/kg-day,,,,None
+428,Perfluorohexanoic Acid (PFHxA),307-24-4,abr.-10-2023,No,"Developmental
+Endocrine
+Hematologic
+Hepatic",5 x 10 -4 mg/kg-day,5 x 10 -4 mg/kg-day,,,None
+429,Permethrin,52645-53-1,mar.-31-1987,Yes,Hepatic,5 x 10 -2 mg/kg-day,,,,None
+430,Phenanthrene,85-01-8,dez.-01-1990,No,None,,,,,None
+431,Phenmedipham,13684-63-4,jun.-01-1990,Yes,None,2.5 x 10 -1 mg/kg-day,,,,None
+432,Phenol,108-95-2,set.-30-2002,Yes,None,3 x 10 -1 mg/kg-day,,,,None
+433,Phenylenediamine,108-45-2,jan.-31-1987,Yes,Hepatic,6 x 10 -3 mg/kg-day,,,,None
+434,Phenylmercuric acetate,62-38-4,jan.-31-1987,Yes,Urinary,8 x 10 -5 mg/kg-day,,,,None
+435,Phosalone,2310-17-0,dez.-01-1988,No,None,,,,,None
+436,Phosgene,75-44-5,jan.-31-2006,No,Respiratory,,,3 x 10 -4 mg/m3,,None
+437,Phosmet,732-11-6,jan.-31-1987,Yes,"Hepatic
+Nervous",2 x 10 -2 mg/kg-day,,,,None
+438,Phosphine,7803-51-2,jul.-01-1995,Yes,None,3 x 10 -4 mg/kg-day,,3 x 10 -4 mg/m3,,None
+439,Phosphoric acid,7664-38-2,ago.-01-1995,No,Respiratory,,,1 x 10 -2 mg/m3,,None
+440,Phthalic anhydride,85-44-9,set.-07-1988,Yes,"Respiratory
+Urinary",2 mg/kg-day,,,,None
+441,Picloram,1918-02-1,set.-30-1987,Yes,Hepatic,7 x 10 -2 mg/kg-day,,,,None
+442,Pirimiphos-methyl,29232-93-7,set.-30-1987,Yes,Nervous,1 x 10 -2 mg/kg-day,,,,None
+443,Polychlorinated Biphenyls (PCBs),1336-36-3,out.-01-1996,No,None,,,,,Hepatic
+444,Polycyclic aromatic hydrocarbon (PAH) mixtures,Various,,No,None,,,,,None
+445,Potassium cyanide,151-50-8,set.-28-2010,Yes,Reproductive,2 x 10 -3 mg/kg-day,,,,None
+446,Potassium silver cyanide,506-61-6,set.-28-2010,Yes,Reproductive,5 x 10 -3 mg/kg-day,,,,None
+447,Prochloraz,67747-09-5,out.-01-1989,Yes,Hepatic,9 x 10 -3 mg/kg-day,,,,Hepatic
+448,Prometon,1610-18-0,jan.-31-1987,Yes,None,1.5 x 10 -2 mg/kg-day,,,,None
+449,Prometryn,7287-19-6,set.-30-1987,Yes,"Hematologic
+Hepatic
+Immune
+Urinary",4 x 10 -3 mg/kg-day,,,,None
+450,Pronamide,23950-58-5,jan.-31-1987,Yes,None,7.5 x 10 -2 mg/kg-day,,,,None
+451,Propachlor,1918-16-7,jan.-31-1987,No,Hepatic,1.3 x 10 -2 mg/kg-day,,,,None
+452,Propanil,709-98-8,mar.-01-1988,Yes,Immune,5 x 10 -3 mg/kg-day,,,,None
+453,Propargite,2312-35-8,mai.-01-1990,Yes,"Developmental
+Musculoskeletal",2 x 10 -2 mg/kg-day,,,,None
+454,Propargyl alcohol,107-19-7,nov.-01-1990,Yes,"Hepatic
+Urinary",2 x 10 -3 mg/kg-day,,,,None
+455,Propazine,139-40-2,ago.-28-1987,Yes,None,2 x 10 -2 mg/kg-day,,,,None
+456,Propham,122-42-9,set.-30-1987,Yes,"Immune
+Nervous",2 x 10 -2 mg/kg-day,,,,None
+457,Propiconazole,60207-90-1,ago.-22-1988,Yes,Gastrointestinal,1.3 x 10 -2 mg/kg-day,,,,None
+458,Propiolactone,57-57-8,jul.-01-1991,Yes,None,,,,,None
+459,Propionaldehyde,123-38-6,set.-30-2008,No,"Nervous
+Respiratory",,,8 x 10 -3 mg/m3,,None
+460,Propylene glycol,57-55-6,jun.-01-1991,Yes,None,,,,,None
+461,Propylene glycol monoethyl ether,52125-53-8,jun.-01-1991,No,None,,,,,None
+462,Propylene glycol monomethyl ether (PGME),107-98-2,jul.-01-1991,Yes,Nervous,,,2 mg/m3,,None
+463,Propylene oxide,75-56-9,nov.-01-1990,Yes,Respiratory,,,3 x 10 -2 mg/m3,,"Gastrointestinal
+Respiratory"
+464,Propyleneimine,75-55-8,jan.-01-1992,Yes,None,,,,,None
+465,Pursuit,81335-77-5,jan.-01-1990,Yes,Hematologic,2.5 x 10 -1 mg/kg-day,,,,None
+466,Pydrin,51630-58-1,mar.-31-1987,Yes,Nervous,2.5 x 10 -2 mg/kg-day,,,,None
+467,Pyrene,129-00-0,set.-01-1990,No,Urinary,3 x 10 -2 mg/kg-day,,,,None
+468,Pyridine,110-86-1,set.-30-1987,Yes,Hepatic,1 x 10 -3 mg/kg-day,,,,None
+469,Quinalphos,13593-03-8,mar.-31-1987,Yes,None,5 x 10 -4 mg/kg-day,,,,None
+470,Quinoline,91-22-5,set.-27-2001,No,None,,,,,Hepatic
+471,Quinone,106-51-4,out.-01-1990,Yes,None,,,,,None
+472,"Radium 226,228",Various,jan.-01-1989,Yes,None,,,,,None
+473,Radon 222,14859-67-7,jul.-01-1989,Yes,None,,,,,None
+474,Refractory ceramic fibers,,set.-01-1992,No,None,,,,,None
+475,Resmethrin,10453-86-8,set.-26-1988,Yes,Reproductive,3 x 10 -2 mg/kg-day,,,,None
+476,Rotenone,83-79-4,set.-07-1988,Yes,Developmental,4 x 10 -3 mg/kg-day,,,,None
+477,Savey,78587-05-0,set.-26-1988,Yes,"Endocrine
+Hematologic",2.5 x 10 -2 mg/kg-day,,,,None
+478,Selenious acid,7783-00-8,jun.-01-1991,No,"Dermal
+Hematologic
+Nervous",5 x 10 -3 mg/kg-day,,,,None
+479,Selenium and Compounds,7782-49-2,jun.-01-1991,Yes,"Dermal
+Hematologic
+Nervous",5 x 10 -3 mg/kg-day,,,,None
+480,Selenium sulfide,7446-34-6,mar.-01-1991,Yes,None,,,,,None
+481,Selenourea,630-10-4,mai.-01-1991,No,None,,,,,None
+482,Sethoxydim,74051-80-2,nov.-01-1989,Yes,Hematologic,9 x 10 -2 mg/kg-day,,,,None
+483,Silver,7440-22-4,dez.-01-1991,Yes,Dermal,5 x 10 -3 mg/kg-day,,,,None
+484,Silver cyanide,506-64-9,jan.-31-1987,No,"Endocrine
+Nervous",1 x 10 -1 mg/kg-day,,,,None
+485,Simazine,122-34-9,set.-01-1993,Yes,Hematologic,5 x 10 -3 mg/kg-day,,,,None
+486,Sodium azide,26628-22-8,mar.-31-1987,Yes,None,4 x 10 -3 mg/kg-day,,,,None
+487,Sodium cyanide,143-33-9,set.-28-2010,Yes,Reproductive,1 x 10 -3 mg/kg-day,,,,None
+488,Sodium diethyldithiocarbamate,148-18-5,jan.-31-1987,Yes,None,3 x 10 -2 mg/kg-day,,,,None
+489,Sodium fluoroacetate,62-74-8,mai.-01-1991,Yes,"Cardiovascular
+Reproductive",2 x 10 -5 mg/kg-day,,,,None
+490,Strontium,7440-24-6,out.-01-1992,Yes,Musculoskeletal,6 x 10 -1 mg/kg-day,,,,None
+491,Strychnine,57-24-9,jan.-31-1987,Yes,None,3 x 10 -4 mg/kg-day,,,,None
+492,Styrene,100-42-5,nov.-01-1992,No,"Hematologic
+Hepatic
+Nervous",2 x 10 -1 mg/kg-day,,1 mg/m3,,None
+493,Systhane,88671-89-0,set.-26-1988,Yes,Reproductive,2.5 x 10 -2 mg/kg-day,,,,None
+494,Tebuthiuron,34014-18-1,ago.-22-1988,Yes,None,7 x 10 -2 mg/kg-day,,,,None
+495,Terbacil,5902-51-2,jan.-31-1987,Yes,"Endocrine
+Hepatic",1.3 x 10 -2 mg/kg-day,,,,None
+496,Terbutryn,886-50-0,set.-26-1988,Yes,Hematologic,1 x 10 -3 mg/kg-day,,,,None
+497,Tetrabromodiphenyl ether (BDE-47),5436-43-1,jun.-30-2008,No,Nervous,1 x 10 -4 mg/kg-day,,,,None
+498,Tetrabromodiphenyl ether,40088-47-9,ago.-01-1990,Yes,None,,,,,None
+499,Tetrachlorobenzene,95-94-3,jan.-31-1987,Yes,Urinary,3 x 10 -4 mg/kg-day,,,,None
+500,Tetrachlorocyclopentadiene,695-77-2,mar.-01-1990,No,None,,,,,None
+501,Tetrachlorodibenzo-p-dioxin,1746-01-6,fev.-17-2012,No,"Developmental
+Endocrine
+Reproductive",7 x 10 -10 mg/kg-day,,,,None
+502,Tetrachloroethane,630-20-6,mar.-01-1989,No,"Hepatic
+Urinary",3 x 10 -2 mg/kg-day,,,,Hepatic
+503,Tetrachloroethane,79-34-5,set.-30-2010,Yes,Hepatic,,,,,Hepatic
+504,Tetrachloroethylene (Perchloroethylene),127-18-4,fev.-10-2012,No,"Nervous
+Ocular",6 x 10 -3 mg/kg-day,,4 x 10 -2 mg/m3,,Hepatic
+505,Tetrachlorophenol,58-90-2,mar.-01-1988,Yes,Hepatic,3 x 10 -2 mg/kg-day,,,,None
+506,Tetrachlorovinphos,961-11-5,mar.-31-1987,Yes,"Hepatic
+Nervous
+Urinary",3 x 10 -2 mg/kg-day,,,,None
+507,Tetraethyl lead,78-00-2,jan.-31-1987,Yes,"Hepatic
+Immune",1 x 10 -7 mg/kg-day,,,,None
+508,Tetraethyldithiopyrophosphate,3689-24-5,set.-07-1988,Yes,Nervous,5 x 10 -4 mg/kg-day,,,,None
+509,Tetrafluoroethane,811-97-2,ago.-01-1995,Yes,Reproductive,,,8 x 10 1 mg/m3,,None
+510,Tetrahydrofuran,109-99-9,fev.-21-2012,No,"Developmental
+Hepatic
+Nervous",9 x 10 -1 mg/kg-day,,2 mg/m3,,None
+511,"Thallium (I), soluble salts",Various,set.-30-2009,No,None,,,,,None
+512,Thallium acetate,563-68-8,set.-30-2009,Yes,None,,,,,None
+513,Thallium carbonate,6533-73-9,set.-30-2009,Yes,None,,,,,None
+514,Thallium chloride,7791-12-0,set.-30-2009,Yes,None,,,,,None
+515,Thallium nitrate,10102-45-1,set.-30-2009,Yes,None,,,,,None
+516,Thallium oxide,1314-32-5,set.-30-2009,Yes,None,,,,,None
+517,Thallium selenite,12039-52-0,set.-30-2009,Yes,None,,,,,None
+518,Thallium(I) sulfate,7446-18-6,set.-30-2009,Yes,None,,,,,None
+519,Thiobencarb,28249-77-6,set.-30-1987,Yes,Urinary,1 x 10 -2 mg/kg-day,,,,None
+520,Thiophanate-methyl,23564-05-8,jan.-31-1987,Yes,"Endocrine
+Reproductive",8 x 10 -2 mg/kg-day,,,,None
+521,Thiram,137-26-8,set.-30-1987,Yes,Nervous,5 x 10 -3 mg/kg-day,,,,None
+522,Toluene,108-88-3,set.-23-2005,No,"Nervous
+Urinary",8 x 10 -2 mg/kg-day,,5 mg/m3,,None
+523,Toluene diisocyanate mixture (TDI),26471-62-5,set.-01-1995,Yes,Respiratory,,,7 x 10 -5 mg/m3,,None
+524,Toxaphene,8001-35-2,ago.-22-1988,Yes,None,,,,,Hepatic
+525,Tralomethrin,66841-25-6,jul.-01-1989,Yes,None,7.5 x 10 -3 mg/kg-day,,,,None
+526,Triallate,2303-17-5,mar.-31-1987,No,Hepatic,1.3 x 10 -2 mg/kg-day,,,,None
+527,Triasulfuron,82097-50-5,jan.-01-1991,Yes,Hepatic,1 x 10 -2 mg/kg-day,,,,None
+528,Tribromobenzene,615-54-3,mar.-31-1987,No,Hepatic,5 x 10 -3 mg/kg-day,,,,None
+529,Tribromochloromethane,594-15-0,mar.-01-1991,No,None,,,,,None
+530,Tribromodiphenyl ether,49690-94-0,ago.-01-1990,Yes,None,,,,,None
+531,Tributyltin oxide (TBTO),56-35-9,set.-01-1997,Yes,Immune,3 x 10 -4 mg/kg-day,,,,None
+532,"Trichloro-1,2,2-trifluoroethane (CFC-113)",76-13-1,abr.-06-1987,Yes,Nervous,3 x 10 1 mg/kg-day,,,,None
+533,Trichloroacetic acid,76-03-9,set.-30-2011,Yes,Hepatic,2 x 10 -2 mg/kg-day,,,,Hepatic
+534,Trichlorobenzene,120-82-1,mai.-01-1992,Yes,Endocrine,1 x 10 -2 mg/kg-day,,,,None
+535,Trichlorocyclopentadiene,77323-84-3,mar.-01-1990,No,None,,,,,None
+536,Trichloroethane,71-55-6,set.-28-2007,Yes,"Hepatic
+Nervous",2 mg/kg-day,7 mg/kg-day,5 mg/m3,5 mg/m3,None
+537,Trichloroethane,79-00-5,set.-26-1988,Yes,"Hematologic
+Immune",4 x 10 -3 mg/kg-day,,,,Hepatic
+538,Trichloroethylene,79-01-6,set.-28-2011,No,"Developmental
+Immune",5 x 10 -4 mg/kg-day,,2 x 10 -3 mg/m3,,"Hematologic
+Hepatic
+Urinary"
+539,Trichlorofluoromethane,75-69-4,jan.-31-1987,Yes,"Cardiovascular
+Respiratory",3 x 10 -1 mg/kg-day,,,,None
+540,Trichlorophenol,95-95-4,jul.-01-1991,Yes,"Hepatic
+Urinary",1 x 10 -1 mg/kg-day,,,,None
+541,Trichlorophenol,88-06-2,jul.-01-1991,Yes,None,,,,,Hematologic
+542,"Trichlorophenoxy) propionic acid (2,4,5-TP)",93-72-1,set.-07-1988,Yes,Hepatic,8 x 10 -3 mg/kg-day,,,,None
+543,"Trichlorophenoxyacetic acid (2,4,5-T)",93-76-5,set.-07-1988,Yes,Urinary,1 x 10 -2 mg/kg-day,,,,None
+544,Trichloropropane,598-77-6,set.-26-1988,No,"Endocrine
+Hepatic
+Urinary",5 x 10 -3 mg/kg-day,,,,None
+545,Trichloropropane,96-18-4,set.-30-2009,Yes,"Hepatic
+Respiratory",4 x 10 -3 mg/kg-day,,3 x 10 -4 mg/m3,,"Gastrointestinal
+Hepatic
+Ocular
+Reproductive"
+546,Tricresol,1319-77-3,abr.-01-1992,Yes,None,,,,,None
+547,Tridiphane,58138-08-2,jan.-31-1987,Yes,Reproductive,3 x 10 -3 mg/kg-day,,,,None
+548,Triethylamine,121-44-8,abr.-01-1991,Yes,Respiratory,,,7 x 10 -3 mg/m3,,None
+549,Triethylene glycol monobutyl ether,143-22-6,set.-01-1994,No,None,,,,,None
+550,Triethylene glycol monoethyl ether,112-50-5,set.-01-1994,No,None,,,,,None
+551,Trifluralin,1582-09-8,jul.-01-1989,Yes,"Hematologic
+Hepatic",7.5 x 10 -3 mg/kg-day,,,,"Endocrine
+Urinary"
+552,Trimethylbenzene,526-73-8,set.-09-2016,No,"Hematologic
+Nervous
+Respiratory",1 x 10 -2 mg/kg-day,4 x 10 -2 mg/kg-day,6 x 10 -2 mg/m3,2 x 10 -1 mg/m3,None
+553,Trimethylbenzene,95-63-6,set.-09-2016,No,"Developmental
+Hematologic
+Nervous
+Respiratory",1 x 10 -2 mg/kg-day,4 x 10 -2 mg/kg-day,6 x 10 -2 mg/m3,2 x 10 -1 mg/m3,None
+554,Trimethylbenzene,108-67-8,set.-09-2016,No,"Developmental
+Nervous",1 x 10 -2 mg/kg-day,4 x 10 -2 mg/kg-day,6 x 10 -2 mg/m3,2 x 10 -1 mg/m3,None
+555,Trimethylpentane,540-84-1,jul.-31-2007,Yes,None,,,,,None
+556,Trinitrobenzene,99-35-4,out.-01-1997,Yes,Hematologic,3 x 10 -2 mg/kg-day,,,,None
+557,Trinitrotoluene (TNT),118-96-7,jun.-01-1989,Yes,Hepatic,5 x 10 -4 mg/kg-day,,,,Urinary
+558,"Uranium, soluble salts",Various,out.-01-1989,Yes,Urinary,3 x 10 -3 mg/kg-day,,,,None
+559,Urea,57-13-6,jul.-13-2011,No,None,,,,,None
+560,Vanadium pentoxide,1314-62-1,jun.-30-1988,Yes,Dermal,9 x 10 -3 mg/kg-day,,,,None
+561,Vernam,1929-77-7,mar.-31-1987,No,None,1 x 10 -3 mg/kg-day,,,,None
+562,Vinclozolin,50471-44-8,jan.-31-1987,Yes,"Endocrine
+Urinary",2.5 x 10 -2 mg/kg-day,,,,None
+563,Vinyl acetate,108-05-4,out.-01-1990,No,"Nervous
+Respiratory",,,2 x 10 -1 mg/m3,,None
+564,Vinyl bromide,593-60-2,mai.-01-1993,Yes,Hepatic,,,3 x 10 -3 mg/m3,,None
+565,Vinyl chloride,75-01-4,ago.-07-2000,Yes,Hepatic,3 x 10 -3 mg/kg-day,,1 x 10 -1 mg/m3,,Hepatic
+566,Warfarin,81-81-2,mar.-31-1987,Yes,Hematologic,3 x 10 -4 mg/kg-day,,,,None
+567,White phosphorus,7723-14-0,dez.-01-1990,Yes,"Dermal
+Reproductive",2 x 10 -5 mg/kg-day,,,,None
+568,Xylenes,1330-20-7,fev.-21-2003,No,Nervous,2 x 10 -1 mg/kg-day,,1 x 10 -1 mg/m3,,None
+569,Zinc and Compounds,7440-66-6,ago.-03-2005,No,"Hematologic
+Immune",3 x 10 -1 mg/kg-day,,,,None
+570,Zinc cyanide,557-21-1,jan.-31-1987,Yes,"Endocrine
+Nervous",5 x 10 -2 mg/kg-day,,,,None
+571,Zinc phosphide,1314-84-7,mar.-31-1987,Yes,None,3 x 10 -4 mg/kg-day,,,,None
+572,Zineb,12122-67-7,mar.-31-1987,Yes,Endocrine,5 x 10 -2 mg/kg-day,,,,None
