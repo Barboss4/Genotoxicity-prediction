@@ -44,6 +44,7 @@ The pipeline is structured in the following stages:
 
 5. **Model evaluation**  
    - Metrics: Accuracy, F1-score, ROC-AUC, Balanced Accuracy
+   - Statistic: Tukey's HSD test
 
 ---
 
@@ -74,9 +75,8 @@ The pipeline is structured in the following stages:
 
 ## 📊 Results
 
-- **Best model:** Random Forest with hybrid feature vectors  
-- **Combined dataset size:** 3886 compounds  
-- **Total features:** 753 (369 descriptors + 384 Word2Vec)
+The best predictive performance was achieved using the in vivo dataset with the combined representation (descriptors + Word2Vec), reaching an average F1-score of 0.726. This integrated approach consistently outperformed isolated representations across datasets. Tukey's HSD test confirmed the statistical significance of these differences (α = 0.05).
+
 
 > Performance metrics are reported in each notebook using cross-validation results.
 
