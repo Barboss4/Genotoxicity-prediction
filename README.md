@@ -47,17 +47,28 @@ The pipeline is structured in the following stages:
 
 ---
 
-## 📒 Notebooks Structure
+## Notebooks Overview
 
-├── 01_data_collection_and_curation.ipynb # Data acquisition from public sources and preprocessing
+- `DataCleaning.ipynb`  
+  Performs data acquisition from public sources and preprocessing for further analysis.
 
-├── 02_smiles_retrieval.ipynb # Retrieval of SMILES using PubChem API and manual completion
+- `smiles_retrieval.ipynb`  
+  Retrieves SMILES representations using the PubChem API and includes manual completion steps.
 
-├── 03_rdkit_descriptors_alerts.ipynb # Calculation of molecular descriptors with RDKit # Detection of toxicological alert substructures # Model training and evaluation based on these features
+- `Avaliação_de_dados_descritores.ipynb`  
+  Calculates molecular descriptors using RDKit and detects toxicological alert substructures. Trains models based on these features.
 
-├── 04_smiles_tokenization_word2vec.ipynb # SMILES tokenization # Word2Vec training # Construction of molecular vectors and predictive evaluation
+- `Avaliação_de_Smiles_por_NPL.ipynb`  
+  Applies SMILES tokenization and Word2Vec training to construct molecular embeddings and evaluate predictive models.
 
-├── 05_fusion_hybrid_features.ipynb # Integration of RDKit descriptors with Word2Vec embeddings # Training and evaluation of models with hybrid representations
+- `Avaliação_de_Smiles_por_NPL_+_descritores.ipynb`  
+  Combines RDKit descriptors with Word2Vec embeddings for hybrid feature representation and model evaluation.
+
+- `Data_analise.ipynb`  
+  Explores and visualizes data distributions, correlations, and other relevant patterns.
+
+- `Results_avaluation.ipynb`  
+  Assesses model performance through various evaluation metrics and visualizations.
 
 ---
 
